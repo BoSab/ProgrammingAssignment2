@@ -1,4 +1,4 @@
-## Caching of a materix inversion is usually better solution than computing 
+## Caching of a matrix inversion is usually better solution than computing 
 ## the inversion since it saves us time and makes the computation not as heavy. 
 
 
